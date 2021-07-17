@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nick Wilde Figurine
+* source:	https://sketchfab.com/3d-models/nick-wilde-figurine-7d66eb81adf9449ab9ead83d322215ca
+* author:	YiBoZONE (https://sketchfab.com/YiBoZONE)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nick Wilde Figurine" (https://sketchfab.com/3d-models/nick-wilde-figurine-7d66eb81adf9449ab9ead83d322215ca) by YiBoZONE (https://sketchfab.com/YiBoZONE) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

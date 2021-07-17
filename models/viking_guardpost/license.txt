@@ -1,0 +1,11 @@
+Model Information:
+* title:	Viking guardpost
+* source:	https://sketchfab.com/3d-models/viking-guardpost-6f27ada661a14a0aa651475cff81d656
+* author:	StijnBeerts (https://sketchfab.com/StijnBeerts)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Viking guardpost" (https://sketchfab.com/3d-models/viking-guardpost-6f27ada661a14a0aa651475cff81d656) by StijnBeerts (https://sketchfab.com/StijnBeerts) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
